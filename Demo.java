@@ -10,7 +10,7 @@ import java.util.Scanner;
  * converted to a case).
  * 
  * @author Nicholas Olson
- * @version 2024-08-14
+ * @version 2024-08-19
  */
 public class Demo
 {
