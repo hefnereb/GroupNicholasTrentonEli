@@ -22,7 +22,7 @@ public class MyClassB extends MyAbstractClass
     }
 
     /**
-     * Provides a message. The message itself is entirely decided
+     * Provides a message that contains a random number.
      * 
      * @return the message.
      */

@@ -7,7 +7,7 @@
 public class MyClassA extends MyAbstractClass
 {
     /**
-     * Provides a message. The message itself is entirely decided
+     * Provides a message.
      * 
      * @return the message.
      */
