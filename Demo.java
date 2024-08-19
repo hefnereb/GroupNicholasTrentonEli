@@ -1,5 +1,3 @@
-package;
-
 import java.util.Scanner;
 
 /**
@@ -33,7 +31,7 @@ public class Demo
     private static final String PROMPT_VALUE_CLASS_A = "a";
 
     /**
-     * The prompt that is provided to select class A.
+     * The prompt that is provided to select class B.
      * 
      * Note that prompts are case-insensitive.
      */
@@ -72,7 +70,7 @@ public class Demo
                 case PROMPT_VALUE_CLASS_A:
                     selectedClass = new MyClassA();
                     break;
-                case PROMPT_VALUE_CLASS_A:
+                case PROMPT_VALUE_CLASS_B:
                     selectedClass = new MyClassB();
                     break;
                 default:

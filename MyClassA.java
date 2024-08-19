@@ -1,5 +1,3 @@
-package;
-
 /**
  * An implementation of the abstract class.
  * 

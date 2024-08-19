@@ -1,5 +1,3 @@
-package;
-
 /**
  * An abstract class that is used for this demo.
  * 

@@ -1,5 +1,3 @@
-package;
-
 import java.util.Random;
 
 /**
