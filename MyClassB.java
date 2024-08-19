@@ -3,7 +3,7 @@ import java.util.Random;
 /**
  * An implementation of the abstract class.
  * 
- * @author Nicholas Olson
+ * @author Nicholas Olson, Trenton Pendleton
  * @version 2024-08-19
  */
 public class MyClassB extends MyAbstractClass
