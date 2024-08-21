@@ -9,7 +9,7 @@ import java.util.Scanner;
  * Internally, all prompts are lowercase (so that only the input needs to be
  * converted to a case).
  * 
- * @author Nicholas Olson, Trenton Pendleton
+ * @author Nicholas Olson, Trenton Pendleton, Eli Hefner
  * @version 2024-08-19
  */
 public class Demo
