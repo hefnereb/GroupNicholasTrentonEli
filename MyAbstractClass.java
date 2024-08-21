@@ -1,7 +1,7 @@
 /**
  * An abstract class that is used for this demo.
  * 
- * @author Nicholas Olson, Trenton Pendleton
+ * @author Nicholas Olson, Trenton Pendleton, Eli Hefner
  * @version 2024-08-19
  */
 public abstract class MyAbstractClass
